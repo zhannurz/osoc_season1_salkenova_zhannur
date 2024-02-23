@@ -1,0 +1,2 @@
+# osoc_season1_salkenova_zhannur
+osoc_project
